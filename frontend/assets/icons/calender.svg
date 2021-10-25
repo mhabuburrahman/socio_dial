@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-calender">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="calender" clip-path="url(#clip-calender)">
+    <rect width="20" height="20" fill="rgba(251,251,251,0)"/>
+    <g id="Icon">
+      <rect id="Area" width="20" height="20" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(1.29 2.499)">
+        <rect id="Rect" width="15" height="15" rx="2" transform="translate(1.21 0.834)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <line id="Line" y2="3.333" transform="translate(12.043 -0.832)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <line id="Line-2" data-name="Line" y2="3.333" transform="translate(5.377 -0.832)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <line id="Line-3" data-name="Line" x2="15" transform="translate(1.21 5.834)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg>

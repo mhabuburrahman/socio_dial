@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Map">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Map" clip-path="url(#clip-Map)">
+    <rect width="20" height="20" fill="rgba(251,251,251,0)"/>
+    <g id="Icon">
+      <rect id="Area" width="20" height="20" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(1.29 2.499)">
+        <path id="Path" d="M17.5,8.333c0,5.834-7.5,10.834-7.5,10.834s-7.5-5-7.5-10.834a7.5,7.5,0,1,1,15,0Z" transform="translate(-1.29 -2.499)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+        <circle id="Path-2" data-name="Path" cx="2.5" cy="2.5" r="2.5" transform="translate(6.21 3.334)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg>

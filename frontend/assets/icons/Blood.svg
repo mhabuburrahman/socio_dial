@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Blood">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Blood" clip-path="url(#clip-Blood)">
+    <rect width="20" height="20" fill="rgba(251,251,251,0)"/>
+    <g id="Icon">
+      <rect id="Area" width="20" height="20" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(1.29 2.499)">
+        <path id="Path" d="M10,2.242l4.717,4.716a6.667,6.667,0,1,1-9.425,0Z" transform="translate(-1.29 -2.499)" fill="none" stroke="#d93931" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg>
