@@ -63,7 +63,8 @@ class _LoginScreenState extends State<LoginScreen> {
                               SizedBox(
                                 height: size.height * .045,
                               ),
-                              CustomButton(text: 'Log In',
+                              CustomButton(
+                                  text: 'Log In',
                                   buttonColor: Colors.green,
                                   press: (){}),
                               SizedBox(
@@ -86,7 +87,10 @@ class _LoginScreenState extends State<LoginScreen> {
                                 text: 'Register Here',
                                 buttonColor: Colors.white,
                                 textColor: LabelColor,
-                                press: (){},
+                                press: (){
+                                  Navigator.of(context)
+                                      .pushNamed("/signup");
+                                },
                               ),
                               SizedBox(
                                 height: size.height * .03,

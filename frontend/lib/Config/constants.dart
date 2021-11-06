@@ -26,8 +26,8 @@ const TextStyle BodyText3 = TextStyle(
 );
 
 const TextStyle BodyText4 = TextStyle(
-  fontSize: 25,
-  color: SecondaryBGColor,
+  fontSize: 28,
+  color: PrimaryBGColor,
   fontFamily: 'open-sans',
   fontWeight: FontWeight.bold,
 );
