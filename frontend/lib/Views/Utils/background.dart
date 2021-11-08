@@ -34,10 +34,13 @@ class _BackgroundState extends State<Background> {
       appBar: new AppBar(
         leading: widget.leading,
         iconTheme: IconThemeData(color: PrimaryBGColor),
-        title: Text(
-          widget.header,
-          style:
-          TextStyle(fontWeight: FontWeight.bold, color: widget.headerColor),
+        title: Align(
+          alignment: Alignment.center,
+          child: Text(
+            widget.header,
+            style:
+            TextStyle(fontWeight: FontWeight.bold, color: widget.headerColor),
+          ),
         ),
         elevation: 0,
         backgroundColor: widget.appbarBG,
